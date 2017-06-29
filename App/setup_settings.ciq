@@ -1,0 +1,111 @@
+﻿<project version = 9 civer = 8.0.1 winver = "2.9/6.1.7601" >
+   <autorun >0</>
+   <autoclose >1</>
+   <compname >Radinaradionica</>
+   <produrl >www.radinaradionica.com</>
+   <ver ></>
+   <supurl ></>
+   <updurl ></>
+   <dlgfont >verdana</>
+   <headlogo >default - 1</>
+   <dlgfontsize >s8</>
+   <output >D:\Projects\footpadswitch\App</>
+   <exename >setup.exe</>
+   <beffile ></>
+   <aftfile ></>
+   <uninclude >1</>
+   <lang >english</>
+   <addlang >serbian_lat</>
+   <selfextr >1</>
+   <instpath >#appdata#\#appname#</>
+   <voltype >nolimit</>
+   <volsize ></>
+   <volpattern >disk%i.pak</>
+   <password ></>
+   <progname >FootpadSwitch</>
+   <appname ></>
+   <bl ></>
+   <blurl ></>
+   <unpath >inst</>
+   <unexe >uninstall.exe</>
+   <unlog >uninstall.ini</>
+   <installroot ></>
+   <uninstallroot ></>
+   <icofile >default</>
+   <noadmin >0</>
+   <comptype >default</>
+   <ratio >r5</>
+   <solid >1</>
+   <desc ></>
+   <srclist >
+      <rows ></>
+   </>
+   <path >inst</>
+   <custpath ></>
+   <ifexist >over</>
+   <if ></>
+   <varlist >
+      <rows ></>
+   </>
+   <shpath >prog</>
+   <shfile ></>
+   <file ></>
+   <cmdline ></>
+   <comment ></>
+   <icon ></>
+   <work >inst</>
+   <defwork ></>
+   <runas >norm</>
+   <root >curuser</>
+   <subkey ></>
+   <reglist >
+      <rows ></>
+   </>
+   <shfolder ></>
+   <silentpar >-silent</>
+   <ignnotfound >0</>
+   <srcfolder >D:\Projects\footpadswitch\App\Footpadswitch</>
+   <exclude ></>
+   <licfile ></>
+   <readfile ></>
+   <leftimg >install - 1</>
+   <caption ></>
+   <iswel >1</>
+   <isfin >0</>
+   <enforce >0</>
+   <savepath >0</>
+   <autoprog >1</>
+   <opengroup >0</>
+   <shlist >
+      <rows >
+         <_ >
+            <shpath >prog</>
+            <shfile >#appname#</>
+            <path >inst</>
+            <file >Footpadswitch.exe</>
+            <cmdline ></>
+            <icon >#exepath#\launcher.ico</>
+            <work >inst</>
+            <defwork ></>
+         </>
+         <_ >
+            <shpath >start</>
+            <shfile >#appname#</>
+            <path >inst</>
+            <file >Footpadswitch.exe</>
+            <cmdline ></>
+            <icon >#exepath#\launcher.ico</>
+            <work >inst</>
+            <defwork ></>
+         </>
+      </>
+   </>
+   <unicon >uninstall</>
+   <unsh >1</>
+   <unaddrem >1</>
+   <unname ></>
+   <ifile ></>
+   <unleftimg >uninstall - 1</>
+   <uncaption ></>
+   <isunfin >0</>
+</>

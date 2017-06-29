@@ -1,0 +1,6 @@
+App/.idea/*
+*.bak
+*-bak
+*.bck
+firmware/.metadata/*
+firmware/RemoteSystemsTempFiles/*
