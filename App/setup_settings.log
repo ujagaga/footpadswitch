@@ -1,12 +1,12 @@
 
-Processing D:\Projects\footpadswitch\App\setup_settings.ciq 6/18/2017 1:07:20 AM
+Processing D:\Projects\footpadswitch\App\setup_settings.ciq 6/29/2017 2:46:07 PM
 Log file: D:\Projects\footpadswitch\App\setup_settings.log 
 Generating Sources... 
 Compiling Gentee Sources... 
 Build setup file: D:\Projects\footpadswitch\App\setup.exe 
 Adding temporary file(s) to EXE 
-C:\Users\RADA~1.BER\AppData\Local\Temp\gentee01\english.lng 6/18/2017 1:07:21 AM 3589  45.97%
-C:\Users\RADA~1.BER\AppData\Local\Temp\gentee01\serbian.lng 6/18/2017 1:07:21 AM 3703  46.61%
+C:\Users\RADA~1.BER\AppData\Local\Temp\gentee01\english.lng 6/29/2017 2:46:08 PM 3589  45.97%
+C:\Users\RADA~1.BER\AppData\Local\Temp\gentee01\serbian.lng 6/29/2017 2:46:08 PM 3703  46.61%
 C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 11/5/2002 10:52:24 AM 7308  52.55%
 C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 11/10/2002 10:56:02 AM 20678  33.44%
 C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 11/10/2002 10:56:02 AM 20678  28.19%
@@ -16,8 +16,9 @@ Getting list of files
 Packing files... 
 ================================ 
 D:\Projects\footpadswitch\App\Footpadswitch\bz2.pyd 12/17/2016 8:44:38 PM 71168  52.06%
-D:\Projects\footpadswitch\App\Footpadswitch\Footpadswitch.exe 6/18/2017 1:07:15 AM 22016  47.03%
-D:\Projects\footpadswitch\App\Footpadswitch\launcher.ico 6/17/2017 2:02:54 PM 370070  3.40%
+D:\Projects\footpadswitch\App\Footpadswitch\config.txt 6/29/2017 2:34:20 PM 14  164.28%
+D:\Projects\footpadswitch\App\Footpadswitch\Footpadswitch.exe 6/18/2017 1:07:15 AM 22016  52.13%
+D:\Projects\footpadswitch\App\Footpadswitch\launcher.ico 6/17/2017 2:02:54 PM 370070  3.41%
 D:\Projects\footpadswitch\App\Footpadswitch\library.zip 6/18/2017 1:07:15 AM 1787305  30.74%
 D:\Projects\footpadswitch\App\Footpadswitch\python27.dll 12/17/2016 8:43:56 PM 2639872  44.37%
 D:\Projects\footpadswitch\App\Footpadswitch\pywintypes27.dll 3/13/2017 7:48:08 PM 110080  40.15%
@@ -29,6 +30,6 @@ D:\Projects\footpadswitch\App\Footpadswitch\win32api.pyd 3/13/2017 7:49:18 PM 10
 D:\Projects\footpadswitch\App\Footpadswitch\_ctypes.pyd 12/17/2016 8:44:10 PM 91648  46.55%
 D:\Projects\footpadswitch\App\Footpadswitch\_hashlib.pyd 12/17/2016 8:46:14 PM 1016832  46.39%
 ================================ 
-All files: 13 [ 6854KB => 2627KB ] 
-File Size D:\Projects\footpadswitch\App\setup.exe: 2740 KB 
-Finish Successful 6/18/2017 1:07:26 AM
+All files: 14 [ 6854KB => 2628KB ] 
+File Size D:\Projects\footpadswitch\App\setup.exe: 2742 KB 
+Finish Successful 6/29/2017 2:46:12 PM
